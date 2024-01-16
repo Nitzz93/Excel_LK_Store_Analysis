@@ -1,1 +1,3 @@
 # Excel_LK_Store_Analysis
+
+This Excel project is Simple Store Analysis designed using PivotTable.
